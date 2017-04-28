@@ -571,7 +571,7 @@ a {
     margin-bottom: 1.5em;
   }
   > ul{
-    background-color: $grey;
+    background-color: $pl-input-ph;
   }
   > ol > li {
     margin: .5em 0;
@@ -633,7 +633,7 @@ blockquote > p{
   padding-left: 0;
 }
 blockquote > ol > li > code{
-    background-color: $grey !important;
+    background-color: $pl-input-ph !important;
 }
 kbd {
   padding: .2em .3em .1em;
