@@ -6,32 +6,33 @@ encoding: utf-8
 kramdown:
   input: GFM
 
+
 # 作者信息
 author:
-  name: 晚晴幽草
-  email: jeffjade@163.com
-  link: http://www.jeffjade.com
-  weibo: http://weibo.com/3235949794
-  github: http://github.com/nicejade
+  name: 萨满
+  email: samsprite722@gmail.com
+  link: http://szhang.github.io
+  weibo: http://weibo.com/samNspell
+  github: http://github.com/samsprite
 
 # 站点信息
-title: 天意人间舫
-description: 个人博客(Jekyll);整理、记载关于工具/资源/生活/技术/读书/影音等经验和思考;
-url: http://nicejade.github.io
+title: 法术部落
+description: 个人博客(Jekyll);科学尚未普及，糊其口，正三观，观变迁，顺大势;
+url: http://szhang.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: http://7xoosr.com1.z0.glb.clouddn.com/nicejadeIcon.jpg
-favicon: http://www.jeffjade.com/img/xuan.ico
+avatar: http://i1.piimg.com/592712/1e720c5f98e9c79a.jpg
+favicon: http://i1.piimg.com/592712/e81650177cc05b6d.png
 
 # google analytics 设置
 ga:
-  id: UA-86109050-1
-  url: nicejade.github.io
+  id:
+  url: szhang.github.io
 
 # disqus 设置
 disqus:
-  shortname: yunjeffblog
+  shortname: samblog
 
 #rake configuration on 2016-03-01
 post:
