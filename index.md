@@ -3,7 +3,7 @@ layout: post
 title: REBORN重生
 ---
 
-##  **[IF 如果](szhang.github.io)**
+##  **[IF 如果](samsprite.github.io)**
 
 <style type="text/css">
 .index-poem{

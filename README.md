@@ -2,7 +2,7 @@
 
 此博客原作者博文地址： [http://www.jeffjade.com](http://www.jeffjade.com)
 
-个人博客地址: [http://szhang.github.io](http://szhang.github.io)
+个人博客地址: [http://samsprite.github.io](http://samsprite.github.io)
 
 ### Fork说明
 站在前辈的肩膀上搭建此Blog，Jekyll框架直接fork的[晚晴幽草轩,天意人间舫](http://www.jeffjade.com/2016/01/22/2016-01-22-jeffjade-and-nicejade/)的代码框架,项目地址是[nicejade.github.io](https://github.com/nicejade/nicejade.github.io)，感谢Github的Fork功能和开放自由性让搭建个人Blog不再是技术问题，同样感谢所有搭建Blog过程中直接和间接受惠的前辈们。

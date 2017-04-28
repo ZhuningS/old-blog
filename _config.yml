@@ -11,14 +11,14 @@ kramdown:
 author:
   name: 萨满
   email: samsprite722@gmail.com
-  link: http://szhang.github.io
+  link: http://samsprite.github.io
   weibo: http://weibo.com/samNspell
   github: http://github.com/samsprite
 
 # 站点信息
 title: 法术部落
 description: 个人博客(Jekyll);科学尚未普及，糊其口，正三观，观变迁，顺大势;
-url: http://szhang.github.io
+url: http://samsprite.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -28,7 +28,7 @@ favicon: http://i1.piimg.com/592712/e81650177cc05b6d.png
 # google analytics 设置
 ga:
   id:
-  url: szhang.github.io
+  url: samsprite.github.io
 
 # disqus 设置
 disqus:
@@ -48,4 +48,4 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ~/Git/szhang.github.com/
+  destination: ~/Git/samsprite.github.com/
