@@ -1,4 +1,4 @@
-<h2 align="center">法术部落</h2>
+<h2 align="center">REBORN</h2>
 
 此博客原作者博文地址： [http://www.jeffjade.com](http://www.jeffjade.com)
 
