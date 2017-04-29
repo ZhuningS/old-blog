@@ -4,8 +4,8 @@ title: 如何选择你的人生伴侣
 date: 2017-04-29 10:12:29 +0800
 categories: 自然男人
 tags: WaitBugWhy
-keywords:
-description:
+keywords: 择偶标准,爱情定义
+description: 我们的择偶标准到底是什么、如何定义爱情受哪些因素影响？时代的大环境如何限制了我们的三观？
 ---
 [本文转载自WaitButWhy](http://waitbutwhy.com/cn/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E4%BD%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E4%BC%B4%E4%BE%A3)
 
