@@ -23,8 +23,8 @@ url: http://samsprite.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: http://i1.piimg.com/592712/1e720c5f98e9c79a.jpg
-favicon: http://i1.piimg.com/592712/e81650177cc05b6d.png
+avatar: https://i1.piimg.com/592712/1e720c5f98e9c79a.jpg
+favicon: https://i1.piimg.com/592712/e81650177cc05b6d.png
 
 # google analytics 设置
 ga:
