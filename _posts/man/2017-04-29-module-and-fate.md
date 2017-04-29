@@ -5,7 +5,7 @@ date: 2017-04-29 10:44:12 +0800
 categories: 自然男人
 tags: Vincent,,Masculinity
 keywords: 命运,女语者,我是谁,我从哪来,我要到哪里去
-description:
+description: 生命最美妙之处在于它的不确定性，而人的本性对于这种不确定性，充满了恐惧，所以，企图控制……
 ---
 转载自：[女语者公众号](https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5ODk1NDQ4MQ==&appmsgid=10000034&itemidx=1&mpshare=1&scene=1&srcid=0407AyZCvoL2C0fS0Bi1B6bN&uin=&key=&ascene=1&devicetype=Windows+7&version=6204014f&lang=zh_CN&winzoom=1)
 
