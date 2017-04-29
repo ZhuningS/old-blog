@@ -11,7 +11,8 @@ description: 生命最美妙之处在于它的不确定性，而人的本性对�
 
 作者：Vincent
 
-![](http://upload-images.jianshu.io/upload_images/4024364-5036ef8c3fd27a13?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-5036ef8c3fd27a13?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+</center>
 
 You must give up the life you planned, in order to have the life planned for you. —— Joseph Campbell
 

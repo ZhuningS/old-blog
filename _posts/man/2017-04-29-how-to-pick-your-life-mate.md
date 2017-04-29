@@ -14,12 +14,12 @@ description: 我们的择偶标准到底是什么、如何定义爱情受哪些�
 一直到20世纪中期，圣诞节一直都是犹太孩子的噩梦，然后，犹太教的光明节变成了犹太圣诞节，解决了这个问题。那些比如哥伦布节和感恩节这种国家性的节日，每年都会惹到一群人，因为这些节日庆祝的都是多年之前的大屠杀。但是只有情人节，只有这个节日能够让如此多的一群人陷入抑郁之中。
 
 当然了，我们周围的单身男女不乏那种对情人节不屑一顾，热爱单身的。但是对于大多数单身男女，这个节日感觉起来就像是这样子：
-
-![](http://upload-images.jianshu.io/upload_images/4024364-79fdaa44981a05ee.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+<center>
+<img src="http://upload-images.jianshu.io/upload_images/4024364-79fdaa44981a05ee.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+</center>
 乍一看，科学似乎也验证了这个现象。一个最近的研究表明，结了婚的人平均开心水平高于离婚的人。但是仔细观察可以发现，如果你把结了婚的人按照他们的婚姻幸福指数分成两组，一组是“自我感觉婚姻悲惨的”，另一组是“自我婚姻幸福的”。我们可以发现，“自我感觉婚姻悲惨的”人，他们的幸福指数甚至低于那些单身的人；而那些“自我感觉婚姻幸福的”人，他们的幸福指数甚至高于我们的想象。所以换句话说，情人节有两种情侣，大概是这样子：
 
-![](http://upload-images.jianshu.io/upload_images/4024364-9dc61f8824c1a580.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-9dc61f8824c1a580.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"></center>
 
 所以说么，那些对自己状态不满意的单身男女，都应该把自己摆在一个中等开心，还是有点希望的地方。因为他们可以通过自己的努力找到一个人步入快乐的恋爱世界。
 他们的任务表应该是这样子的：
@@ -93,17 +93,17 @@ description: 我们的择偶标准到底是什么、如何定义爱情受哪些�
 
 让我们细数一下被这种模式坑了并且陷入痛苦恋爱关系的几类人：
 ### 浪漫过头小张：
-![](http://upload-images.jianshu.io/upload_images/4024364-f7d773ce18e11ed7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-f7d773ce18e11ed7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"></center>
 **“浪漫过头的小张”的失败之处在于，他觉得只要你足够爱一个人就可以结婚了**。 诚然，浪漫是一段关系中的重要组成部分，而爱情也是最核心的成分。但是，如果一段关系缺了其他重要的东西，这段关系是走不远的。
 
 那些浪漫过头的人，虽然有时候经常和自己的女朋友大吵特吵，但是还是忽略了内心对这种争执的抗议，然后自己告诉自己`所有事情的发生都是有原因的，我们的相遇也一定是冥冥之中注定的`，或者`我全身心地爱着他，这就足够了，我别的什么都不需要`。一旦浪漫过头的人找到了自己的`灵魂伴侣`，他们就开始忽略周围的一切，然后一直忠贞得守护自己未来50年的不幸婚姻。
 
 ### 被恐惧驾驭的小王
-![](http://upload-images.jianshu.io/upload_images/4024364-e9505a2667aefb85.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-e9505a2667aefb85.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"></center>
 **当你需要选择自己的人生伴侣时，让恐惧给你做决定是最不靠谱的**。不幸的是，如果你过了一定年龄（有时候早到20多岁）还没有结婚，那么社会价值观就会开始在很多原先理智的人心中注入恐惧。这种社会（我们的父母，朋友）赋予我们的恐惧感，比如害怕自己成为朋友中最后一个单身的，比如害怕自己生孩子太晚，或者经常是害怕自己被别人品头论足，这些恐惧都在催促我们找一个`差不多就可以了`的人生伴侣。讽刺的是，我们真正应该害怕的是在不幸福中度过自己的后半生。那些被恐惧驾驭的人，为了躲避单身的恐惧，都被迫冒着这样子的风险。
 
 ### 人云亦云的小赵
-![](http://upload-images.jianshu.io/upload_images/4024364-4efa6a9d950ececf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-4efa6a9d950ececf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"></center>
 **“人云亦云的小赵”在做自己婚姻决策的时候，大都依靠着周围人的看法**。选择自己人生伴侣，如此复杂的事情完全是自己一个人的，如人饮水，冷暖自知。除了虐待，两口子的事情别人真的没什么资格插足。
 
 一种最让人唏嘘不已的例子，就是某个人迫于外界的压力和议论，和原本正确的人分手（宗教分歧经常就是一个原因）。他们为了家人或者朋友的意见，牺牲自己的感受和自己爱的人分手。
@@ -111,7 +111,7 @@ description: 我们的择偶标准到底是什么、如何定义爱情受哪些�
 相反的情况也可能发生。有时候一个人仅仅因为`大家觉得他们挺相配`这种理由就和另外一个人在一起，实际上他们自己的问题多的是了。就算关上家门自己经常会非常沮丧，小赵还是让周围人的意见淹没了自己内心的声音。
 
 ### 肤浅的小刘
-![](http://upload-images.jianshu.io/upload_images/4024364-0c9b14b767e96ae6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-0c9b14b767e96ae6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"></center>
 **相比于自己人生伴侣感觉如何，“肤浅的小刘”更关心他的那些表面条件**。她的爱人必须要有几个必须具备的特点，比如身高一定要多少，工作一定要体面，年收入一定要多少，要多么有成就，或者一些比如`必须是外国人`或者`必须会乐器`这种独特要求。
 
 当然了，每个人对自己的伴侣都有大致的要求。但是那些虚荣心极强的人，就本末倒置把这些要求作为选择男女朋友的唯一标准，而对于那些`性格``人品`这样子不能量化的标准睁一只眼闭一只眼。
@@ -119,7 +119,7 @@ description: 我们的择偶标准到底是什么、如何定义爱情受哪些�
 如果你想要个词来形容这类找男女朋友像是填问卷一样的人，你可以叫他们`答题卡女`，或者`答题卡男`。我已经用这词很久了。
 
 ### 自私的小钱
-![](http://upload-images.jianshu.io/upload_images/4024364-07f5cc1f59992b7a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-07f5cc1f59992b7a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"></center>
 小钱的自私有三种表现方式：
 - **不听我的话就滚**类型
 
@@ -143,7 +143,7 @@ description: 我们的择偶标准到底是什么、如何定义爱情受哪些�
 
 我觉得对于婚姻来说也是这个道理。
 
-![](http://upload-images.jianshu.io/upload_images/4024364-aa602a0dac03080c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-aa602a0dac03080c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"></center>
 
 在一个外人看来，美好的婚姻就是个让人心醉的爱情故事，就像是在电影或者小说里面的那样。嗯，这是一种美好而诗意地看待婚姻的方式。
 

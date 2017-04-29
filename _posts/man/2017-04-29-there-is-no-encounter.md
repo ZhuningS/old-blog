@@ -11,7 +11,7 @@ description: 其实并不存在搭讪意义上的“邂逅”，来不来电并�
 
 作者：Vincent
 
-![](http://upload-images.jianshu.io/upload_images/4024364-0badd782989ec6f1?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-0badd782989ec6f1?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"></center>
 
 我们常常听到成功的邂逅故事。
 

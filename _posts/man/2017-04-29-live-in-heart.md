@@ -10,7 +10,7 @@ description: Vincent讲解什么是外部世界、什么是内心世界，以及
 转自：[女语者公众号](https://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5ODk1NDQ4MQ==&appmsgid=10000044&itemidx=1&mpshare=1&scene=1&srcid=0407FXt4p10HZQ4I0dz6j4tw&uin=&key=&ascene=1&devicetype=Windows+7&version=6204014f&lang=zh_CN&winzoom=1)
 
 作者：Vincent
-![](http://upload-images.jianshu.io/upload_images/4024364-fb6b6d9533bf2e97?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<center><img src="http://upload-images.jianshu.io/upload_images/4024364-fb6b6d9533bf2e97?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"></center>
 
 > 当一个人凝视万丈深渊，满眼漆黑时，他会找到自己最真实的品质。正是这种品质，会拯救他不落入深渊。——<华尔街>，1987
 
