@@ -118,7 +118,7 @@ And - which is more - you'll be a Man my son!
 
 这首关于人生、关于成长的诗歌，第一次接触是在读`穷查理宝典`，书中独占一章，芒格力荐。读了很多遍中译版，又专门找了英文原版[^1]，始终有种想背下来的冲动；后来接触到了女语者，其中一节课Vincent又提到了这首诗，引用了<strong>“与平民交谈而不失谦虚，与王侯同行而不露谄媚”</strong>这句，来解释成熟男人应有的心态，再次强化了与这首诗的内心联接,特此与君共勉。
 
-<img src="https://i2.muimg.com/592712/f9853b5302437849.jpg" width="100%" height="100%" align="center" alt="IF">
+<img src="http://i2.muimg.com/592712/f9853b5302437849.jpg" width="100%" height="100%" align="center" alt="IF">
 
 ## 写作目的
 
