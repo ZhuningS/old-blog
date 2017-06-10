@@ -1,5 +1,16 @@
 // 总数
 var jeffjade_firebase = new Firebase("https://nicejade.firebaseIO.com");
+//var jeffjade_firebase = new Firebase("https://samsprite-14f54.firebaseIO.com");
+/*var config = {
+    apiKey: "AIzaSyDrR9F8WH1CLCcLKs4lkRcqcnYDlfpusXM",
+    authDomain: "samsprite-14f54.firebaseapp.com",
+    databaseURL: "https://samsprite-14f54.firebaseio.com",
+    projectId: "samsprite-14f54",
+    storageBucket: "samsprite-14f54.appspot.com",
+    messagingSenderId: "479030096392"
+  };
+var jeffjade_firebase = new Firebase(config);
+*/
 jeffjade_firebase.child("sum").on("value", function(data) {
   var current_counter = data.val();
   if($("#counter").length > 0  && current_counter > 1){
