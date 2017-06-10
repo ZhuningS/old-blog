@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穷查理宝典
+title: 杂谈《穷查理宝典》
 date: 2017-04-28 06:50:20 +0800
 categories: 读书
 tags: Reading

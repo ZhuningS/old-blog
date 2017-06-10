@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 和时间做朋友
+title: 杂谈《和时间做朋友》
 date: 2017-04-29 06:33:14 +0800
 categories: 读书
 tags: Reading

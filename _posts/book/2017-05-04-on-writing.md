@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 写作这回事
+title: 写作《写作这回事》
 date: 2017-05-04 07:21:04 +0800
 categories: 读书
 tags: writing
