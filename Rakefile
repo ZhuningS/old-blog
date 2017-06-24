@@ -100,13 +100,13 @@ end
 # Add 2016-03－01(rake new)
 desc "Create a post in _posts"
 task :new do
-  puts "Input File Path(book/life/journey/tech/tool/man,default _posts Root)："
+  puts "Input File Path(book/life/journey/tech/tool/man/job,default _posts Root)："
   @dir = STDIN.gets.chomp
   puts "Input File Name(for Url)："
 	@url = STDIN.gets.chomp
 	puts "Input Article Title(for Article)："
 	@name = STDIN.gets.chomp
-	puts "Input Article Categories(技术｜工具｜生活｜旅行｜读书｜自然男人 Separated By Spaces)："
+	puts "Input Article Categories(技术｜工具｜生活｜旅行｜读书｜自然男人|文案 Separated By Spaces)："
 	@categories = STDIN.gets.chomp
   puts "Input Article Tags(Separated By ,)"
   @tags = STDIN.gets.chomp
